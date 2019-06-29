@@ -36,10 +36,3 @@ $(document).ready(function()
     $('#reservemodal').modal('show');
   });
 });
-
-
-/*commenting out because not needed now script
-  $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip();
-  });
-*/
